@@ -40,4 +40,4 @@ systemctl daemon-reload
 systemctl restart docker
 systemctl enable docker
 
-systemctl disable --now firewalld
+#systemctl disable --now firewalld
